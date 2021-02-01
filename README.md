@@ -1,4 +1,4 @@
-# [Thomas Weideman]'s Notes
+# Thomas Weideman's Notes
 
 ## Summary 
 
